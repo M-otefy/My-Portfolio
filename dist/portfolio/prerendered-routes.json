@@ -1,10 +1,10 @@
 {
   "routes": {
-    "/M-otefy/Portfolio.git": {},
-    "/M-otefy/Portfolio.git/about": {},
-    "/M-otefy/Portfolio.git/contact": {},
-    "/M-otefy/Portfolio.git/home": {},
-    "/M-otefy/Portfolio.git/projects": {},
-    "/M-otefy/Portfolio.git/skills": {}
+    "/Portfolio": {},
+    "/Portfolio/about": {},
+    "/Portfolio/contact": {},
+    "/Portfolio/home": {},
+    "/Portfolio/projects": {},
+    "/Portfolio/skills": {}
   }
 }

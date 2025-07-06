@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://github.com/M-otefy/Portfolio.git',
+  basePath: 'https://m-otefy.github.io/Portfolio',
   supportedLocales: {
   "en-US": ""
 },
