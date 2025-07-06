@@ -8,6 +8,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
+    "deploy": "ng build --configuration production --base-href https://M-otefy.github.io/Portfolio-1/ && gh-pages -d dist/portfolio",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
@@ -27,6 +28,7 @@
     "@angular/ssr": "^20.0.4",
     "bootstrap": "^5.3.7",
     "express": "^5.1.0",
+    "gh-pages": "^6.3.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.15.0"

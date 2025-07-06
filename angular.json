@@ -38,8 +38,7 @@
               "entry": "src/server.ts"
             },
             "scripts": [
-              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
-              "ng build --prod --base-href https://<username>.github.io/<repository>/ && gh-pages -d dist/<project-name>"
+              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
             ]
           },
           "configurations": {
