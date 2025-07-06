@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/shared/navbar/navbar.css"],
-  "sourcesContent": [".navbar-nav .nav-link.active {\r\n  font-weight: bold;\r\n  color: #0dcaf0 !important; /* Bootstrap info color */\r\n}\r\n"],
-  "mappings": ";AAAA,CAAC,WAAW,CAAC,QAAQ,CAAC;AACpB,eAAa;AACb,SAAO;AACT;",
-  "names": []
-}
